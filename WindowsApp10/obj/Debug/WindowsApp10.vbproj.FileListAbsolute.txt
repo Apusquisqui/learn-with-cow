@@ -1,0 +1,241 @@
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+C:\Users\emicc\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+E:\M2S2\Nueva carpeta\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.AssemblyReference.cache
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.AssemblyReference.cache
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\Joako paps\Desktop\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+E:\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+E:\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+E:\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+E:\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+E:\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\ulrik\Downloads\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.AssemblyReference.cache
+C:\Users\ulrik\OneDrive\Escritorio\ESCUELA\chambiel\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+E:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+E:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+E:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+H:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+H:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+H:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+H:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.AssemblyReference.cache
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form5.resources
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Nl1_Q1.resources
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+H:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+D:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+D:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+D:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+D:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form5.resources
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Nl1_Q1.resources
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+D:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form7.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form5.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Nl1_Q1.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form7.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form8.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_error.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q1.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\bin\Debug\FontAwesome.Sharp.dll
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CopyComplete
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q2.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q3.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q4.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q5.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_QFN1.resources
+E:\PAV\eee\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form16.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\FontAwesome.Sharp.dll
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_error.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q2.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q3.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q4.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q5.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_QFN1.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form16.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form5.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Nl1_Q1.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form7.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form8.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q1.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CopyComplete
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_editarper.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_logNvl2.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Nl2_Q1.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_op.resources
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\linq2db.dll
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.dll
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\linq2db.xml
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.xml
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.dll
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.SqlServer.dll
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.xml
+E:\Artoro\Documents\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.dll
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\linq2db.dll
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.dll
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.xml
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\linq2db.xml
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\bin\Debug\System.Data.SQLite.xml
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_error.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q2.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q3.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q4.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q5.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_QFN1.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form16.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_editarper.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_logNvl2.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Nl2_Q1.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_inicio.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_op.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_perfil.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_nvl.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form5.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Nl1_Q1.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form7.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form8.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_Q1.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CopyComplete
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+C:\Users\artor\OneDrive\Documentos\M2S2\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.frm_amis.resources
+C:\Users\emicc\OneDrive\Documentos\WindowsApp10[1]\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojAssemblyReference.cache
+C:\Users\emicc\OneDrive\Documentos\WindowsApp10[1]\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\emicc\OneDrive\Documentos\WindowsApp10[1]\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\emicc\OneDrive\Documentos\WindowsApp10[1]\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
